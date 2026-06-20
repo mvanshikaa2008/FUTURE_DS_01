@@ -35,8 +35,11 @@ This project was developed as part of the **Data Science & Analytics Internship 
 
 The dataset is stored externally due to repository size limitations.
 
-**Dataset Link:**
+Dataset Link:
 https://drive.google.com/file/d/1znVePSH2ED-AdVJozYj_TIPAk4dkWQrK/view?usp=sharing
+
+Dashboard Preview
+![Dashboard](Online_Retail_Dashboard.png)
 
  📈 DASHBOARD HIGHLIGHTS
 
